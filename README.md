@@ -1,6 +1,6 @@
 Ultrasonic Sensor Alarm Project
 
-Project Summary: Project Summary: This Arduino project implements an ultrasonic distance monitoring system using the SR04 ultrasonic sensor. 
+Project Summary: This Arduino project implements an ultrasonic distance monitoring system using the SR04 ultrasonic sensor. 
 The system continuously measures the distance to nearby objects and displays real-time distance readings on an LCD screen. 
 An alarm mechanism is activated if the detected distance falls below a specified threshold, indicating potential danger. 
 The code is structured to handle sensor readings, alarm states, and LCD updates without blocking the main execution flow, ensuring efficient operation.
